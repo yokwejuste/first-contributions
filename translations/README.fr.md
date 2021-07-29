@@ -51,6 +51,7 @@ Maintenant créez une branche avec le commande `git checkout` :
 ```
 git checkout -b <add-votre-nom>
 ```
+<votre-nom> doit etre remplacer par votre nom d'utilisateur Github
 
 Par exemple :
 ```
